@@ -6,8 +6,8 @@ import React from 'react'
 // import MainPage from './components/AutoComplete/MainPage'; 
 // import MainPage from './components/useRef/Question7/MainPage'
 // import MainPage from './components/Coding_Question/Question1/MainPage'
-// import MainPage from './components/lastHooks/Question7/MainPage'
-import MainPage from './components/Coding_Question/Question2/MainPage'
+import MainPage from './components/lastHooks/Question10/MainPage'
+// import MainPage from './components/Coding_Question/Question2/MainPage'
 const App = () => {
   return (
     <div>
