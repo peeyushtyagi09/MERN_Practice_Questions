@@ -1,0 +1,12 @@
+1 [+] Introduction
+2 [+] Streams are NOT ONLY for streaming videos/audios.
+3 [+] Understanding streams and buffers
+4 [-] Create http server
+5 [-] Downloading big files from server (a good way and a bad way)
+6 [-] Copy files on file systems (a good way and a bad way)
+7 [-] Create custom streams (Readable / Writable / Transform)
+8 [-] String processing (a good way and a bad way)
+9 [-] Pipes
+10 [-] Types of streams
+11 [-] Object mode in streams
+12 [-] Handle errors in stream
